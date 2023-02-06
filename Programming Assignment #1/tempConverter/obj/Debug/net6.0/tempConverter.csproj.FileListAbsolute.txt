@@ -1,0 +1,15 @@
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\bin\Debug\net6.0\tempConverter.exe
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\bin\Debug\net6.0\tempConverter.deps.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\bin\Debug\net6.0\tempConverter.runtimeconfig.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\bin\Debug\net6.0\tempConverter.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\bin\Debug\net6.0\tempConverter.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.csproj.AssemblyReference.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.AssemblyInfoInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.AssemblyInfo.cs
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.csproj.CoreCompileInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\refint\tempConverter.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\tempConverter.genruntimeconfig.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\tempConverter\obj\Debug\net6.0\ref\tempConverter.dll

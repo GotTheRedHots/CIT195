@@ -1,0 +1,15 @@
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\bin\Debug\net6.0\MyAdventure.exe
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\bin\Debug\net6.0\MyAdventure.deps.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\bin\Debug\net6.0\MyAdventure.runtimeconfig.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\bin\Debug\net6.0\MyAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\bin\Debug\net6.0\MyAdventure.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.csproj.AssemblyReference.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.AssemblyInfoInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.AssemblyInfo.cs
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.csproj.CoreCompileInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\refint\MyAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\MyAdventure.genruntimeconfig.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MyAdventure\obj\Debug\net6.0\ref\MyAdventure.dll

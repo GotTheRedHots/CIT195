@@ -1,0 +1,15 @@
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.csproj.AssemblyReference.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfoInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfo.cs
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.csproj.CoreCompileInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\bin\Debug\net6.0\greatAdventure.exe
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\bin\Debug\net6.0\greatAdventure.deps.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\bin\Debug\net6.0\greatAdventure.runtimeconfig.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\bin\Debug\net6.0\greatAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\bin\Debug\net6.0\greatAdventure.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\refint\greatAdventure.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\greatAdventure.genruntimeconfig.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\greatAdventure\obj\Debug\net6.0\ref\greatAdventure.dll

@@ -1,0 +1,15 @@
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\bin\Debug\net6.0\MathMagic.exe
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\bin\Debug\net6.0\MathMagic.deps.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\bin\Debug\net6.0\MathMagic.runtimeconfig.json
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\bin\Debug\net6.0\MathMagic.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\bin\Debug\net6.0\MathMagic.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.csproj.AssemblyReference.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.AssemblyInfoInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.AssemblyInfo.cs
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.csproj.CoreCompileInputs.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\refint\MathMagic.dll
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.pdb
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\MathMagic.genruntimeconfig.cache
+C:\Users\schri\OneDrive\NMC\CIT195\Lab Excersizes\MathMagic\obj\Debug\net6.0\ref\MathMagic.dll
