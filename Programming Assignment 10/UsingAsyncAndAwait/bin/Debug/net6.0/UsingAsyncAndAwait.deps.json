@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UsingAsyncAndAwait/1.0.0": {
+        "runtime": {
+          "UsingAsyncAndAwait.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingAsyncAndAwait/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
